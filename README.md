@@ -54,3 +54,30 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<h2 align="center">Contact me</h2>
+
+###
+
+<img align="left" height="30" width="30" src="https://media.tenor.com/DBaV_cCwFUgAAAAi/happy-star.gif"  />
+
+###
+
+<div align="left">
+  <a href="discordapp.com/users/544276723621953634" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="30" alt="discord logo"  />
+  </a>
+  <a href="mailto:gustavocarvalhogomide@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://tryhackme.com/r/p/1L4ck5unl1ght" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=plastic" height="30" alt="tryhackme logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/gustavogomides09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="30" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
