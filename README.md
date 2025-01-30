@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/-NkQYOJCM_AAAAAj/luckystar-dance-konata-izumi.gif" align="center" height="400" width="400" />
+<img src="https://media.tenor.com/-NkQYOJCM_AAAAAi/luckystar-dance-konata-izumi.gif" align="center" height="400" width="400" />
 </div>  
   
 
