@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<img src="https://media.tenor.com/POvAg2bcNnAAAAAi/linux-ethandud.gif" align="center" height="200" width="200" />
+</div>  
+  
 
-<!--
-**SoloSnowflake/SoloSnowflake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">Hi, there... Welcome to my awesome profile. </div>  
+  
 
-Here are some ideas to get you started:
+- I’m currently learning about CS with focus in Security.
+ㅤㅤㅤ
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
