@@ -50,7 +50,9 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SoloSnowflake&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoloSnowflake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="136" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoloSnowflake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="136" alt="languages graph"  /> <br><br>
+  <img align="left" height="35" width="35" src="https://media.tenor.com/74nJqMKw4L4AAAAi/earth-internetcore.gif"  />
+  <img align="left" height="35" src="https://profile-counter.glitch.me/SoloSnowflake/count.svg?"  />
 </div>
 
 ###
@@ -61,11 +63,9 @@
 
 ###
 
-<img align="left" height="30" width="30" src="https://media.tenor.com/DBaV_cCwFUgAAAAi/happy-star.gif"  />
-
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:gustavocarvalhogomide@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
   </a>
